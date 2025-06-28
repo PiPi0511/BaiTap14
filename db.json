@@ -1,0 +1,24 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Harry Potter",
+      "image": "https://via.placeholder.com/200x150?text=Harry+Potter"
+    },
+    {
+      "id": 2,
+      "title": "Sách tự nhiên",
+      "image": "https://source.unsplash.com/200x150/?nature"
+    },
+    {
+      "id": 3,
+      "title": "Trái cây",
+      "image": "https://source.unsplash.com/200x150/?fruit"
+    },
+    {
+      "id": "6210",
+      "title": "sách cấp 1",
+      "image": "https://source.unsplash.com/200x150/?book"
+    }
+  ]
+}
