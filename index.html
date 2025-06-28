@@ -97,7 +97,7 @@
       if (!title) return;
       const newBook = {
         title,
-        image: 'https://source.unsplash.com/200x150/?book'
+        image: `https://source.unsplash.com/200x150/?book,${encodeURIComponent(title)}` 
       };
       await fetch(API_URL, {
         method: 'POST',
