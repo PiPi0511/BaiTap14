@@ -3,22 +3,17 @@
     {
       "id": 1,
       "title": "Harry Potter",
-      "image": "https://via.placeholder.com/200x150?text=Harry+Potter"
+      "image": "https://picsum.photos/200/150?random=${Math.floor(Math.random() * 1000)}"
     },
     {
-      "id": 2,
+      "id": "a8d3",
       "title": "Sách tự nhiên",
-      "image": "https://source.unsplash.com/200x150/?nature"
+      "image": "https://picsum.photos/200/150?random=772"
     },
     {
-      "id": 3,
-      "title": "Trái cây",
-      "image": "https://source.unsplash.com/200x150/?fruit"
-    },
-    {
-      "id": "6210",
-      "title": "sách cấp 1",
-      "image": "https://source.unsplash.com/200x150/?book"
+      "id": "cc7a",
+      "title": "Sách xã hội",
+      "image": "https://picsum.photos/200/150?random=937"
     }
   ]
 }
